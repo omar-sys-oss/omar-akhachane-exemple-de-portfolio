@@ -1,5 +1,7 @@
 # Omar Akhachane Portfolio
 
+[🌐 Voir le site en ligne](https://omar-sys-oss.github.io/omar-akhachane-exemple-de-portfolio/)
+
 ## Description
 
 Portfolio personnel développé en HTML, CSS et JavaScript.
