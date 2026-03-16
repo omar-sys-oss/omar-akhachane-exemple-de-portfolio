@@ -1,6 +1,6 @@
 # Omar Akhachane Portfolio
 
-[🌐 Voir le site en ligne](https://omar-sys-oss.github.io/omar-akhachane-exemple-de-portfolio/)
+[ Voir le site en ligne](https://omar-sys-oss.github.io/omar-akhachane-exemple-de-portfolio/)
 
 ## Description
 
